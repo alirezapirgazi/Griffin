@@ -1,6 +1,17 @@
-# Griffin Trading System
+# Griffin Trading System 🚀
 
-Griffin is an open-source trading system designed to help traders manage their trades, with integrated indicators and automated risk management.
+**Success is inevitable with Griffin.**  
+An open-source, intelligent trading system for MetaTrader 4 (MQL4) designed for disciplined, checklist-validated, and risk-managed trading.
+
+---
+
+## 📌 Features
+- ✅ Full risk management via smart EA
+- 📋 Entry checklist validation before every trade
+- 📈 30+ custom indicators (Griffin series)
+- 📷 Auto-screenshot of every trade for review
+- 🧠 Modular design – connect your own strategies
+- 🔊 Voice confirmation when checklist is complete
 
 ## Features
 
@@ -8,7 +19,7 @@ Griffin is an open-source trading system designed to help traders manage their t
 - **Risk Management**: Automated risk management and position sizing.
 - **Trade Execution**: Easy integration with trading platforms (MT4).
 
-## Installation (MT4)
+## 🛠️ Installation (MT4)
 
 1. Clone the repository or download the zip file:
    - To clone the repository:
