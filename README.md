@@ -8,9 +8,6 @@ Griffin is an open-source trading system designed to help traders manage their t
 - **Risk Management**: Automated risk management and position sizing.
 - **Trade Execution**: Easy integration with trading platforms (MT4).
 
-## Installation
-
-1. Clone the repository:
 ## Installation (MT4)
 
 1. Clone the repository or download the zip file:
