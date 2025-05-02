@@ -13,12 +13,6 @@ An open-source, intelligent trading system for MetaTrader 4 (MQL4) designed for 
 - 🧠 Modular design – connect your own strategies
 - 🔊 Voice confirmation when checklist is complete
 
-## Features
-
-- **Custom Indicators**: A set of custom-built indicators for market analysis.
-- **Risk Management**: Automated risk management and position sizing.
-- **Trade Execution**: Easy integration with trading platforms (MT4).
-
 ## 🛠️ Installation (MT4)
 
 1. Clone the repository or download the zip file:
