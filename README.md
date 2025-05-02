@@ -13,7 +13,7 @@ Griffin is an open-source trading system designed to help traders manage their t
 1. Clone the repository or download the zip file:
    - To clone the repository:
      ```bash
-     git clone https://github.com/your-username/Griffin.git
+     git clone https://github.com/alirezapirgazi/Griffin.git
      ```
    - Or download the zip file from the "Code" button on GitHub.
 
