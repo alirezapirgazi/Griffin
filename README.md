@@ -22,8 +22,8 @@ Griffin is an open-source trading system designed to help traders manage their t
 3. Copy the indicators (`.ex4` files) and Expert Advisors (`.ex4` files) into the following directories:
    - **Indicators**: `C:\Program Files (x86)\MetaTrader 4\MQL4\Indicators\Griffin`
    - **Experts**: `C:\Program Files (x86)\MetaTrader 4\MQL4\Experts`
-   - **Include**: `C:\Program Files (x86)\MetaTrader 4\Include`
-   - **Libraries**: `C:\Program Files (x86)\MetaTrader 4\Libraries`
+   - **Include**: `C:\Program Files (x86)\MetaTrader 4\MQL4\Include`
+   - **Libraries**: `C:\Program Files (x86)\MetaTrader 4\MQL4\Libraries`
 
 4. Restart your MetaTrader 4 platform.
 
