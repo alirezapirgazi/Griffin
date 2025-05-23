@@ -1,42 +1,43 @@
+# 🟦 GriffinCycle
 
-# GriffinCycle
+## 📌 توضیح کوتاه (فارسی)
+**GriffinCycle** اندیکاتوری هوشمند و مشتق‌شده از **GriffinFVG** است که به کمک نواحی قیمت منصفانه (Fair Value Gap) سعی در **نمایش چرخه‌های بازار** دارد.  
+این اندیکاتور با بررسی ترتیب، محل، و ماهیت نواحی FVG، **فازهای مختلف چرخه بازار** مانند انباشت، روند، توزیع، و بازگشت را شناسایی و با یک **خط متحرک** که نسبت به قیمت تغییر مکان می‌دهد، نمایش می‌دهد:  
+- اگر خط زیر قیمت باشد، نشان‌دهنده روند **صعودی**  
+- اگر خط بالای قیمت باشد، نشان‌دهنده روند **نزولی**
 
-## 📌 توضیح کوتاه (فارسی):
-اندیکاتور **GriffinCycle** که برگرفته از هسته اصلی گریفین است، برای شناسایی دقیق‌تر تغییر روند و فیلتر کردن نوسانات کوچک طراحی شده است. این ابزار به معامله‌گر کمک می‌کند تا تغییرات مهم بازار را بهتر تشخیص داده و سیگنال‌های کاذب را کاهش دهد.
-
-## 📌 Short Description (English):
-**GriffinCycle**, derived from the core Griffin indicator, is designed to more precisely detect trend changes and filter out minor fluctuations. It helps traders better identify significant market moves and reduce false signals.
-
----
-
-## ⚙️ نحوه عملکرد (فارسی):
-- تمرکز روی شناسایی تغییرات روند با دقت بالاتر نسبت به اندیکاتور گریفین اصلی.
-- فیلتر کردن حرکات کوچک و بی‌اهمیت برای جلوگیری از سیگنال‌های نادرست.
-- استفاده از الگوریتم‌های پیشرفته برای تحلیل حرکت قیمت در بازه‌های زمانی مختلف.
-- نمایش واضح نقاط تغییر روند اصلی روی نمودار.
-
-## ⚙️ How It Works (English):
-- Focuses on detecting trend changes with higher precision compared to the main Griffin indicator.
-- Filters out minor, insignificant movements to avoid false signals.
-- Utilizes advanced algorithms to analyze price action over multiple timeframes.
-- Clearly displays main trend reversal points on the chart.
+## 📌 Short Description (English)
+**GriffinCycle** is a market cycle visualizer powered by the **GriffinFVG** engine.  
+It detects and represents different **phases of market cycles** based on Fair Value Gap (FVG) zones, using a **dynamic line** that moves relative to price:  
+- When the line is below the price, it indicates an **uptrend**  
+- When the line is above the price, it indicates a **downtrend**
 
 ---
 
-## ✅ مزایا | Key Benefits
+## ⚙️ نحوه عملکرد | How It Works
+
+### ✅ فارسی:
+- بررسی توالی FVGها برای تشخیص فازهای چرخه بازار  
+- استفاده از ساختار نواحی FVG برای شناسایی روندها و نقاط تغییر فاز  
+- نمایش یک خط متحرک که نسبت به قیمت جابجا می‌شود و جهت روند را نشان می‌دهد  
+- خط پایین قیمت = روند صعودی، خط بالای قیمت = روند نزولی
+
+### ✅ English:
+- Analyzes sequence of FVG zones to determine cycle phases  
+- Uses zone structure to identify trends and transition points  
+- Displays a dynamic line that moves relative to price indicating trend direction  
+- Line below price = uptrend, line above price = downtrend
+
+---
+
+## 🌟 مزایا | Key Benefits
+
 ### فارسی:
-- افزایش دقت در شناسایی تغییر روند
-- کاهش قابل توجه سیگنال‌های اشتباه
-- مناسب برای معامله‌گران محافظه‌کار و دقیق
-- کاربرد در تمامی بازارها و تایم‌فریم‌ها
+- شناسایی دقیق فازهای بازار (انباشت، روند، توزیع، بازگشت)  
+- نمایش ساده و سریع جهت روند با خط متحرک  
+- ابزار مکمل برای تحلیل ساختاری با FVG
 
 ### English:
-- Improved accuracy in trend change detection
-- Significantly reduces false signals
-- Suitable for conservative and precise traders
-- Applicable across all markets and timeframes
-
----
-
-## 🖼 مثال تصویری | Screenshot
-*(تصویری از عملکرد روی نمودار پیشنهاد می‌شود)*
+- Accurately detects market phases (accumulation, trend, distribution, reversal)  
+- Simple and clear trend direction visualization with dynamic line  
+- Complements FVG-based structural analysis perfectly
